@@ -1,0 +1,35 @@
+I am do
+you are do
+he is does
+she is does
+it is does
+we are do
+they are do
+
+object subject verb
+I leave party
+I study English
+I drive bus
+I make coffee
+I see you
+I read books
+
+I don't leave party
+I don't study English
+I don't drive bus
+I don't make coffe
+I don't see you
+
+Do you leave party
+Do you study English
+Do you drive bus
+Do you make coffee
+Do you see you
+
+I am not Mike
+You are not Mike
+he is not Mike
+
+Am I Mike
+Are you Mike
+Is he Mike
